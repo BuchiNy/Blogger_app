@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reporters Us</string>
+    <string name="add_blog">Add Article</string>
+    <string name="blog_saved">Blog saved</string>
+    <string name="save">Save</string>
+    <string name="add_body">Body</string>
+</resources>
